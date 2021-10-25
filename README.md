@@ -12,7 +12,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
-  <img align="right" alt="Debby-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/595511467307171851/a43b8fae02b7f40651222bacfcce269f.webp?size=128">  
+  <img align="right" alt="Debby-pic" height="150" style="border-radius:50px;" src="https://imgur.com/gallery/s4L50RM.gif?size=128">  
 </div>
   
 ##
