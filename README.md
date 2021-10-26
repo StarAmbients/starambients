@@ -1,4 +1,6 @@
-### Hi there! Débora here!
+### Hi there! Débora here! I love challenges, particularly the computational ones. I can deep into its limits with ease, even the ones said intractable. That's why I gave priority to my Computer Science studies over Law. no exceptions...
+  
+##
 <div>
   <a href "https://beacons.ai/deboraschuch">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=starambients&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
