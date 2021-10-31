@@ -2,10 +2,12 @@
   
 ##
 <div>
-  <a href="https://github.com/starambients/github-readme-stats">
+  <a href="https://github.com/starambients/starambients">
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=starambients&show_icons=true&title_color=2fc19b&text_color=ffffff&icon_color=2fc18c&border_color=061711&bg_color=DEG,000000,061711,09271c,0e3a2a,134d38,186146&border_radius=19&include_all_commits=true&count_private=true"/>
   </a>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starambients&layout=compact&langs_count=6&title_color=2fc19b&text_color=ffffff&icon_color=2fc18c&border_color=061711&bg_color=DEG,000000,061711,09271c,0e3a2a,134d38,186146&border_radius=19"/>
+  <a href="https://github.com/starambients/starambients">
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starambients&layout=compact&langs_count=6&title_color=2fc19b&text_color=ffffff&icon_color=2fc18c&border_color=061711&bg_color=DEG,000000,061711,09271c,0e3a2a,134d38,186146&border_radius=19"/>
+  </a>
 </div>  
 <div style="display: inline_block"><br>
   <img align="center" alt="Debby-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
