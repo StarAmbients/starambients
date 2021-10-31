@@ -16,7 +16,7 @@
   <img align="center" alt="Debby-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Debby-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Debby-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Debby-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/s4L50RM.gif?size=128">  
+  <img align="right" alt="Debby-pic" height="150" style="border-radius:50px;" src="https://imgur.com/a/l6biyxm">  
 </div>
   
 ##
